@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dhivya2004-github/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dhivya2004-github/LeetCode/tree/master/0242-valid-anagram) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dhivya2004-github/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Divide and Conquer
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dhivya2004-github/LeetCode/tree/master/0069-sqrtx) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dhivya2004-github/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Dhivya2004-github/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Geometry
 |  |
